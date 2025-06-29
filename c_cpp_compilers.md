@@ -1,5 +1,9 @@
 # C & C++ compilers
-## [ Clang ] [ MinGW ]
+---
+
+## Index Table
+- [ Clang ](#clang-setup)
+- [ MinGW ](#mingw-setup)
 
 * ## Clang setup
   * For Windows: [visit this page](https://github.com/Miraj13123/extras/blob/main/files/clangWindows.md)
