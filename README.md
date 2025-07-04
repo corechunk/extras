@@ -1,8 +1,20 @@
-# this page contains list of everything of this repo !!
+# This page contains a list of everything in this repo !!
 -------------------------
-* ## Clang setup
-  * For Windows: [visit this page](files/clangWindows.md)
-  * For Linux (Ubuntu): [visit this page](files/clangLinux.md)
-* ## Mingw Setup
-  * For Windows: [coming soon](srp/PAGE3.md)
-  * For Linux (Ubuntu): [coming soon](srp/PAGE4.md)
+
+## Programming Tools & Compilers
+
+- [C & C++ Compilers](c_cpp_compilers.md)
+  - [Clang Setup (Windows)](files/clangWindows.md)
+  - [Clang Setup (Linux/Ubuntu)](files/clangLinux.md)
+  - [MinGW Setup (Windows)](srp/PAGE3.md) *(coming soon)*
+  - [MinGW Setup (Linux/Ubuntu)](srp/PAGE4.md) *(coming soon)*
+
+---
+
+## Educational Content
+
+- [Number System (Mathematics)](educational/mathematics/number_system/start.md)
+  - [More Positional Number Systems](educational/mathematics/number_system/positional_ns/types.md)
+    - [Counting to Base’s Value and Beyond](educational/mathematics/number_system/positional_ns/count.md)
+
+---
