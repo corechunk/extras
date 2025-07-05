@@ -1,4 +1,4 @@
-# Deeper into Circuits
+# Deeper into Circuits [ Under Construction ]
 
 #### Description
 in this section we will learn from transistors to gates --> cpu components(e.g. alu, register etc.) --> cpu.
