@@ -35,3 +35,4 @@ in this section we will learn from transistors to gates --> cpu components(e.g. 
   - Clock
   - Control Unit
 
+- 
