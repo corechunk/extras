@@ -1,8 +1,13 @@
 # Converting Base-n Numbers to Decimal
 
-To convert a number from any base-n to its decimal (base-10) equivalent, calculate the **sum of each digit multiplied by its positional value**. The positional value is determined by the base raised to the power of the digit's position, counting from right to left, starting at 0.
+To convert a number from any base-n to its decimal (base-10) equivalent, calculate the **sum of each digit multiplied by its positional value**. 
 
-#### What is Position Index
+`decimal equivalent = sum ( each_digit * it's_positional_value )`
+
+#### Positional Value
+Positional Value is determined by the base raised to the power of the digit's Positional-Index, counting from right to left, starting at 0.
+
+#### What is Position-Index
  
     7481  ( Any Number )
     ↓
