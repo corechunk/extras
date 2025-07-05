@@ -1,6 +1,8 @@
 # Number System
 
 ## Topic Index
+<details open>
+<summary><strong>Collapsible Topic Index</strong></summary>
 
 - [Definitions](#definitions)
   - [Number system](#number-system-1)
@@ -26,6 +28,8 @@
         - [(Octal or Hexadecimal) to Binary](positional_ns/conv/special/octHexToBin.md)
         - [Binary to (Octal or Hexadecimal)](positional_ns/conv/special/binToOctHex.md)
         - [Why Hexadecimal and Octal Align with Binary](positional_ns/conv/special/why.md)
+
+</details>
 
 ---
 ---
