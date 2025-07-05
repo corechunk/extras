@@ -19,6 +19,13 @@
         - [Decimal (Base-10)](positional_ns/types.md#3-decimal-base-10-a-number-system-where-the-base-is-10)
         - [Hexadecimal (Base-16)](positional_ns/types.md#4-hexadecimal-base-16-a-number-system-where-the-base-is-16)
     - [Conversion of Positional Number Systems](conversion.md)
+      - [Converting Base-n to Decimal](positional_ns/conv/nToDec.md)
+      - [Converting Decimal to Base-n](positional_ns/conv/decToN.md)
+      - [Special Conversion (Binary, Octal, Decimal, Hexadecimal)](positional_ns/conv/special/binOctDecHex.md)
+        - [Binary to Decimal (vise versa)](positional_ns/conv/special/binToDecV.md)
+        - [(Octal or Hexadecimal) to Binary](positional_ns/conv/special/octHexToBin.md)
+        - [Binary to (Octal or Hexadecimal)](positional_ns/conv/special/binToOctHex.md)
+        - [Why Hexadecimal and Octal Align with Binary](positional_ns/conv/special/why.md)
 
 ---
 ---
@@ -87,4 +94,4 @@ Here “1” in ten’s place means different than in one's place.
 
 
 - [More Positional Number Systems](positional_ns/types.md)
-- [Conversion of Positional Number Systems](conversion.md)
+- [Conversion of Positional Number Systems](positional_ns/conversion.md)
