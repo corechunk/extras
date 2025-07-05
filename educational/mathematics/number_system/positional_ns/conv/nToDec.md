@@ -2,10 +2,12 @@
 
 To convert a number from any base-n to its decimal (base-10) equivalent, calculate the **sum of each digit multiplied by its positional value**. 
 
-`decimal equivalent = sum ( each_digit * it's_positional_value )`
+`decimal_equivalent = sum ( each_digit * it's_positional_value )`
 
 #### Positional Value
 Positional Value is determined by the base raised to the power of the digit's Positional-Index, counting from right to left, starting at 0.
+
+`positional-value = base to the power⁽ᴵᵗ'ˢ⁻ᵖᵒˢᶦᵗᶦᵒⁿᵃˡ⁻ᴵⁿᵈᵉˣ⁾ `
 
 #### What is Position-Index
  
@@ -15,7 +17,9 @@ Positional Value is determined by the base raised to the power of the digit's Po
     ↓   ↓   ↓   ↓
     3   2   1   0   [ Their positional Index (Right to Left): ]
 
+### Finally
 
+`decimal_equivalent = sum ( each_digit * baseᵖᵒʷᵉʳ⁽ᴵᵗ'ˢ⁻ᵖᵒˢᶦᵗᶦᵒⁿᵃˡ⁻ᴵⁿᵈᵉˣ⁾ )`
 
 ## Example: Converting (13647)₈ to Decimal
 
