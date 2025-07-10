@@ -12,11 +12,11 @@ A **transistor** is a small semi-conductor that controls the flow of electricity
 A **semiconductor** is a material that can sometimes **conduct electricity** and sometimes **block** it.
 
 ### Silicon:
-<div style="display: flex; gap: 10px;">
-  <img src="si.jpg" alt="Silicon crystal" width="180"/>
-  <img src="silicon2.jpg" alt="Silicon sample" width="180"/>
+<div style="display: flex; gap: 10px; width: 100%;">
+  <img src="si.jpg" alt="Silicon crystal" style="width: 100%; max-width: 500px; object-fit: contain;"/>
+  <img src="silicon2.jpg" alt="Silicon sample" style="width: 100%; max-width: 500px; object-fit: contain;"/>
 </div>
-  
+
 `It does not let electricity flow as easily as a metal, but it is not as resistant as an insulator.`
 
 ###### Example: **[Silicon](https://periodic-table.rsc.org/element/14/silicon)** is the most common semiconductor material used.
