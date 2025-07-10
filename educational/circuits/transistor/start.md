@@ -12,14 +12,17 @@ A **transistor** is a small semi-conductor that controls the flow of electricity
 A **semiconductor** is a material that can sometimes **conduct electricity** and sometimes **block** it.
 
 ### Silicon:
-![image](si.jpg)
+<div style="display: flex; gap: 10px;">
+  <img src="si.jpg" alt="Silicon crystal" width="180"/>
+  <img src="silicon2.jpg" alt="Silicon sample" width="180"/>
+</div>
   
 `It does not let electricity flow as easily as a metal, but it is not as resistant as an insulator.`
 
 ###### Example: **[Silicon](https://periodic-table.rsc.org/element/14/silicon)** is the most common semiconductor material used.
 <!-- silicon bond image -->
 
-### Conductivity Boosting
+## Conductivity Boosting
 
 To increase the conductivity of semiconductors (like silicon), small amounts of other atoms are added. This process is called **doping**.
 
@@ -30,17 +33,17 @@ Depending on the type of atom added, the semiconductor becomes either:
 1. **n-type**: Doped with atoms that have extra electrons (such as phosphorus). These extra electrons are free to move, making the material better at conducting electricity.
 2. **p-type**: Doped with atoms that have fewer electrons (such as boron). This creates "holes" (spaces where an electron could go), and these holes help carry electricity through the material.
 
-### n-type
+## n-type
 
 In n-type semiconductors, the added atoms provide extra electrons, which are the main charge carriers.
 
-`image`
+![image](n_type.jpg)
 
-### p-type
+## p-type
 
 In p-type semiconductors, the added atoms create holes, and these holes act as the main charge carriers.
 
-`image`
+![image](p_type.jpg)
 
 ### What actually lets the electricity flow?
 
