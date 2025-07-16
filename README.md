@@ -40,7 +40,7 @@
   <img src="assets/wallpaper/programming_language/desktop/10.jpg" alt="C" style="height: 100px;">
   
 </div>
-##### NOTE: JPG PNG and SVG are included in the folder.
+##### NOTE: JPG & PNG files are included in the folder.
 
 ### Android [ 2160 x 4800 ] [ 9:20 ]
 <div>
@@ -57,4 +57,4 @@
   
   
 </div>
-##### NOTE: JPG PNG and SVG are included in the folder.
+##### NOTE: JPG & PNG files are included in the folder.
