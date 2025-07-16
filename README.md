@@ -21,7 +21,7 @@
   <img src="assets/logo/nodeJS/nodeJS.jpg" alt="Node.js" style="height: 100px;">
   <img src="assets/logo/laravel/laravel.jpg" alt="Laravel Framework" style="height: 100px;">
 </div>
-##### NOTE: These are jpg file's preview but png files are included. in png there will be transparent background.
+##### NOTE: These are jpg file's preview but png files are included. in png there will be transparent background. JPG PNG and SVG are included in the folder.
 
 
 ## Wallpapers: Programming Language & Frameworks
@@ -40,7 +40,7 @@
   <img src="assets/wallpaper/programming_language/desktop/10.jpg" alt="C" style="height: 100px;">
   
 </div>
-
+##### NOTE: JPG PNG and SVG are included in the folder.
 
 ### Android [ 2160 x 4800 ] [ 9:20 ]
 <div>
@@ -57,3 +57,4 @@
   
   
 </div>
+##### NOTE: JPG PNG and SVG are included in the folder.
