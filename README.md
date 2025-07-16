@@ -40,7 +40,6 @@
   <img src="assets/wallpaper/programming_language/desktop/10.jpg" alt="C" style="height: 100px;">
   
 </div>
-##### NOTE: These are jpg file's preview but png files are included. in png there will be transparent background.
 
 
 ### Android [ 2160 x 4800 ] [ 9:20 ]
@@ -58,4 +57,3 @@
   
   
 </div>
-##### NOTE: These are jpg file's preview but png files are included. in png there will be transparent background.
