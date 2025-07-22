@@ -3,7 +3,7 @@
 
 ## Index Table
 - [ Clang ](#clang-setup)
-- [ MinGW ](#mingw-setup)
+- [ MinGW-w64 ](#mingw-setup)
 
 ## About These compilers
 - These contain compilers for C and C++
@@ -14,6 +14,6 @@
   * For Linux (Ubuntu): [visit this page](https://github.com/Miraj13123/extras/blob/main/files/clangLinux.md)
 #### Description: `A little slower than MinGW but Good for beginners`
 ## Mingw Setup
-  * For Windows: [coming soon]([srp/PAGE3.md](https://github.com/Miraj13123/extras/blob/main/files/mingwWindows.md))
+  * For Windows: [ visit this page ]([srp/mingw_w64.md](https://github.com/Miraj13123/extras/blob/main/files/mingwWindows.md))
   * For Linux (Ubuntu): [coming soon]([srp/PAGE4.md](https://github.com/Miraj13123/extras/blob/main/files/clangLinux.md))
 #### Description: `Faster Compared to Clang`
