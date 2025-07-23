@@ -3,7 +3,13 @@
 
 ## Programming Tools & Compilers
 
-- [C & C++ Compilers](c_cpp_compilers.md)
+- [C & C++ Compilers](files/compilers/c_cpp/c_cpp_compilers.md)
+
+## GUI Libraries
+- [RayLib](files/GUI/RayLib/start.md)
+- [RayGUI](files/GUI/RayGUI/start.md)
+
+
 
 # Assets
 
