@@ -32,7 +32,7 @@ Installation
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-gcc
 ```
-Note : also install this if you wanna use "MinGW Makefiles" generator with cmake ==> `mingw-w64-ucrt-x86_64-make`
+Note : also install this in the same way if you wanna use "MinGW Makefiles" generator with cmake ==> `mingw-w64-ucrt-x86_64-make`
 
 - The terminal window will show the output as below. Press 'Enter' to continue:
 
