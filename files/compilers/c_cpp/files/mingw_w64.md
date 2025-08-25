@@ -30,8 +30,10 @@ Installation
 - **You will probably want to install some tools like the mingw-w64 GCC to start compiling projects. Run the following command:**
 
 ```bash
-$ pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
 ```
+Note : also install this if you wanna use "MinGW Makefiles" generator with cmake ==> `mingw-w64-ucrt-x86_64-make`
+
 - The terminal window will show the output as below. Press 'Enter' to continue:
 
 ```bash
