@@ -1,6 +1,6 @@
 # Extras Repository
 
-This repository hosts **relative documentation** and resources that support my other projects, such as [cpp-defaults](https://github.com/Miraj13123/cpp-default), [cpp-advanced](https://github.com/Miraj13123/cpp-advanced), [CMake-Default](https://github.com/Miraj13123/CMake-Default), [Neovim](https://github.com/Miraj13123/Neovim). These guides and assets are designed to complement setups in those repositories, providing tutorials, configurations, and visuals for developers.
+This repository hosts **relative documentation** and resources that support my other projects, such as [cpp-defaults](https://github.com/corechunk/cpp-default), [cpp-advanced](https://github.com/corechunk/cpp-advanced), [CMake-Default](https://github.com/corechunk/CMake-Default), [Neovim](https://github.com/corechunk/Neovim). These guides and assets are designed to complement setups in those repositories, providing tutorials, configurations, and visuals for developers.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Extras-Relative_Docs-181717?style=flat-square&logo=github" alt="Extras Relative Docs Badge" width="300"/>
@@ -11,7 +11,7 @@ This repository hosts **relative documentation** and resources that support my o
 ## ✨ About This Repository
 
 The Extras repository contains documentation and assets referenced by my other projects. It includes:
-- **Relative Documentation**: Guides like Vim motions for Neovim, used in the [Neovim Dotfiles Installer](https://github.com/Miraj13123/Neovim).
+- **Relative Documentation**: Guides like Vim motions for Neovim, used in the [Neovim Dotfiles Installer](https://github.com/corechunk/Neovim).
 - **Development Tools**: Tutorials for setting up compilers and GUI libraries.
 - **Visual Assets**: Logos and wallpapers for programming languages and frameworks.
 
@@ -21,7 +21,7 @@ These resources are linked from other repositories to enhance your development e
 
 ## 📝 Text Editor Documentation
 
-Documentation to support text editor usage, particularly for Vim/Neovim, referenced in the [Neovim Dotfiles Installer](https://github.com/Miraj13123/Neovim).
+Documentation to support text editor usage, particularly for Vim/Neovim, referenced in the [Neovim Dotfiles Installer](https://github.com/corechunk/Neovim).
 
 | **Guide**                     | **Description**                                   | **Link**                                      |
 |-------------------------------|--------------------------------------------------|-----------------------------------------------|
@@ -109,5 +109,5 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ---
 
-[![Back to Dotfiles](https://img.shields.io/badge/Back_to_Dotfiles-181717?style=flat-square&logo=github)](https://github.com/Miraj13123/dotfiles)
+[![Back to Dotfiles](https://img.shields.io/badge/Back_to_Dotfiles-181717?style=flat-square&logo=github)](https://github.com/corechunk/dotfiles)
 [![Connect on X](https://img.shields.io/badge/Connect_on_X-1DA1F2?style=flat-square&logo=x)](https://x.com/Mahmudul__Miraj)

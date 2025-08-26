@@ -16,5 +16,5 @@
 
 ## MinGW-w64 Setup [ Minimalist "GNU's Not Unix" Compiler Collection ]
   * For Windows: [ visit this page ](files/mingw_w64.md)
-  * For Linux (Ubuntu): [coming soon]([srp/PAGE4.md](https://github.com/Miraj13123/extras/blob/main/files/clangLinux.md))
+  * For Linux (Ubuntu): [coming soon]()
 #### Description: `Faster Compared to Clang`

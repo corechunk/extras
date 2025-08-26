@@ -123,3 +123,6 @@ This configuration overrides some default behaviors. Check `init_custom.lua` for
 ---
 
 [Go Back with browser's back button or mobile's back navigation to go where you came from to this page]
+
+---
+[dev-info](info.md)
