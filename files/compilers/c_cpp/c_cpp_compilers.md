@@ -18,3 +18,5 @@
   * For Windows: [ visit this page ](files/mingw_w64.md)
   * For Linux (Ubuntu): [coming soon]()
 #### Description: `Faster Compared to Clang`
+---
+[dev-info](info.md)
