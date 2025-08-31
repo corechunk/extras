@@ -1,5 +1,7 @@
 # GCC (GNU Compiler Collection) on Linux
 
+[visit this (easier path)](cl2.md)
+
 ## About
 - **GCC** = GNU Compiler Collection → includes `gcc` (C) and `g++` (C++).
 - On Linux, installing **GCC** automatically installs support for both C and C++.
