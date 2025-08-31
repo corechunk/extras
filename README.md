@@ -1,6 +1,12 @@
 # Extras Repository
 
-This repository hosts **relative documentation** and resources that support my other projects, such as [cpp-defaults](https://github.com/corechunk/cpp-default), [cpp-advanced](https://github.com/corechunk/cpp-advanced), [CMake-Default](https://github.com/corechunk/CMake-Default), [Neovim](https://github.com/corechunk/Neovim). These guides and assets are designed to complement setups in those repositories, providing tutorials, configurations, and visuals for developers.
+This repository hosts **relative documentation** and resources that support my other projects, such as 
+- [cpp-defaults](https://github.com/corechunk/cpp-default)
+- [cpp-advanced](https://github.com/corechunk/cpp-advanced)
+- [CMake-Default](https://github.com/corechunk/CMake-Default)
+- [Neovim](https://github.com/corechunk/Neovim).
+
+These guides and assets are designed to complement setups in those repositories, providing tutorials, configurations, and visuals for developers.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Extras-Relative_Docs-181717?style=flat-square&logo=github" alt="Extras Relative Docs Badge" width="300"/>
